@@ -1,62 +1,41 @@
-[01:06:40] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[01:06:40] [Server thread/INFO]: Rigustah left the game
-[11:03:31] [User Authenticator #41/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[11:03:31] [Server thread/INFO]: Rigustah[/87.95.114.32:21733] logged in with entity id 740549 at (-152.50621940440246, 66.0, 80.85971466563554)
-[11:03:31] [Server thread/INFO]: Rigustah joined the game
-[11:04:17] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[11:04:17] [Server thread/INFO]: Rigustah left the game
-[11:05:22] [User Authenticator #42/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[11:05:22] [Server thread/INFO]: Rigustah[/87.95.114.32:21536] logged in with entity id 740870 at (-155.22355178122024, 66.0, 78.82670958034481)
-[11:05:22] [Server thread/INFO]: Rigustah joined the game
-[11:08:01] [User Authenticator #43/INFO]: UUID of player Olutukko is e24d9fcd-4956-44db-aea8-e444817cdf7c
-[11:08:01] [Server thread/INFO]: Olutukko[/130.230.183.92:42368] logged in with entity id 741541 at (-16.5, 66.875, 127.5)
-[11:08:01] [Server thread/INFO]: Olutukko joined the game
-[11:08:05] [Server thread/INFO]: <Rigustah> tukko
-[11:08:10] [Server thread/INFO]: <Olutukko> terve
-[11:08:21] [Server thread/INFO]: <Olutukko> oon tunnilla tuli vaa käymää
-[11:08:23] [Server thread/INFO]: <Rigustah> yritn tässä etsiä hyvää simpsons jaksoa
-[11:08:51] [Server thread/INFO]: <Olutukko> nice
-[11:09:16] [Server thread/INFO]: Olutukko lost connection: Disconnected
-[11:09:16] [Server thread/INFO]: Olutukko left the game
-[11:19:06] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[11:19:06] [Server thread/INFO]: Rigustah left the game
-[11:52:56] [User Authenticator #44/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[11:52:56] [Server thread/INFO]: Rigustah[/87.95.114.32:21911] logged in with entity id 744187 at (-154.9969116072462, 66.0, 79.35339449003587)
-[11:52:56] [Server thread/INFO]: Rigustah joined the game
-[12:55:43] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[12:55:44] [Server thread/INFO]: Rigustah left the game
-[12:56:07] [User Authenticator #45/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[12:56:07] [Server thread/INFO]: Rigustah[/87.95.114.32:21691] logged in with entity id 781236 at (-202.26622063533972, 66.0, 706.1532455858364)
-[12:56:07] [Server thread/INFO]: Rigustah joined the game
-[12:56:29] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[12:56:29] [Server thread/INFO]: Rigustah left the game
-[12:58:09] [User Authenticator #46/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[12:58:09] [Server thread/INFO]: Rigustah[/87.95.114.32:21725] logged in with entity id 781643 at (-200.9840004224732, 66.0, 704.3903263346306)
-[12:58:09] [Server thread/INFO]: Rigustah joined the game
-[13:00:34] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[13:00:34] [Server thread/INFO]: Rigustah left the game
-[13:02:46] [User Authenticator #47/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[13:02:46] [Server thread/INFO]: Rigustah[/87.95.114.32:21772] logged in with entity id 782513 at (-201.69463865367942, 66.0, 706.0682166244405)
-[13:02:46] [Server thread/INFO]: Rigustah joined the game
-[13:03:52] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[13:03:52] [Server thread/INFO]: Rigustah left the game
-[13:05:36] [User Authenticator #48/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[13:05:36] [Server thread/INFO]: Rigustah[/87.95.114.32:21818] logged in with entity id 783102 at (-201.9751140505755, 66.0, 705.1221485590395)
-[13:05:36] [Server thread/INFO]: Rigustah joined the game
-[13:07:16] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[13:07:16] [Server thread/INFO]: Rigustah left the game
-[13:07:59] [User Authenticator #49/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
-[13:07:59] [Server thread/INFO]: Rigustah[/87.95.114.32:21859] logged in with entity id 785972 at (-234.14569185755676, 64.0, 825.6815501485387)
-[13:07:59] [Server thread/INFO]: Rigustah joined the game
-[13:12:47] [Server thread/INFO]: Rigustah lost connection: Disconnected
-[13:12:47] [Server thread/INFO]: Rigustah left the game
-[17:40:41] [User Authenticator #50/INFO]: UUID of player LimuSipsiDippi is da0c6b64-3cdc-4934-8d66-8ff9733fa329
-[17:40:41] [Server thread/INFO]: LimuSipsiDippi[/88.193.179.151:61149] logged in with entity id 792474 at (80.01344366196012, -56.0, 325.7712443450411)
-[17:40:41] [Server thread/INFO]: LimuSipsiDippi joined the game
-[17:42:46] [Server thread/INFO]: LimuSipsiDippi lost connection: Disconnected
-[17:42:46] [Server thread/INFO]: LimuSipsiDippi left the game
-[19:26:17] [User Authenticator #51/INFO]: UUID of player Olutukko is e24d9fcd-4956-44db-aea8-e444817cdf7c
-[19:26:17] [Server thread/INFO]: Olutukko[/192.168.1.3:50582] logged in with entity id 793071 at (-19.11363581102997, 66.0, 126.80444315621745)
-[19:26:17] [Server thread/INFO]: Olutukko joined the game
-[19:26:57] [Server thread/INFO]: Olutukko lost connection: Disconnected
-[19:26:57] [Server thread/INFO]: Olutukko left the game
+[13:30:52] [User Authenticator #54/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[13:30:52] [Server thread/INFO]: Rigustah[/87.95.114.32:21996] logged in with entity id 801710 at (-155.69344447356633, 66.0, 82.6399280372511)
+[13:30:52] [Server thread/INFO]: Rigustah joined the game
+[13:46:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4197ms or 83 ticks behind
+[13:48:15] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[13:48:15] [Server thread/INFO]: Rigustah left the game
+[13:49:43] [User Authenticator #55/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[13:49:43] [Server thread/INFO]: Rigustah[/87.95.114.32:21663] logged in with entity id 811610 at (-146.9409463738375, 66.0, -136.95460547618612)
+[13:49:43] [Server thread/INFO]: Rigustah joined the game
+[13:56:03] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[13:56:03] [Server thread/INFO]: Rigustah left the game
+[13:59:22] [User Authenticator #56/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[13:59:22] [Server thread/INFO]: Rigustah[/87.95.114.32:21741] logged in with entity id 813593 at (-390.5807940214954, 93.0, 15.992677030261143)
+[13:59:22] [Server thread/INFO]: Rigustah joined the game
+[13:59:36] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[13:59:36] [Server thread/INFO]: Rigustah left the game
+[14:06:39] [User Authenticator #57/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[14:06:39] [Server thread/INFO]: Rigustah[/87.95.114.32:21797] logged in with entity id 813784 at (-388.1856736464183, 93.0, 13.24609413763254)
+[14:06:39] [Server thread/INFO]: Rigustah joined the game
+[14:07:09] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[14:07:09] [Server thread/INFO]: Rigustah left the game
+[14:07:39] [User Authenticator #58/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[14:07:39] [Server thread/INFO]: Rigustah[/87.95.114.32:21824] logged in with entity id 814175 at (-121.10769701063761, 75.0, -72.10702374706325)
+[14:07:39] [Server thread/INFO]: Rigustah joined the game
+[14:48:49] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[14:48:49] [Server thread/INFO]: Rigustah left the game
+[16:22:21] [User Authenticator #59/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[16:22:21] [Server thread/INFO]: Rigustah[/87.95.114.32:21595] logged in with entity id 831687 at (-309.26352931432535, 68.0, 175.1993632850612)
+[16:22:21] [Server thread/INFO]: Rigustah joined the game
+[16:28:54] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[16:28:54] [Server thread/INFO]: Rigustah left the game
+[18:42:41] [User Authenticator #60/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[18:42:42] [Server thread/INFO]: Rigustah[/87.95.114.32:21821] logged in with entity id 833819 at (-312.4620444236486, 68.0, 182.2947450961007)
+[18:42:42] [Server thread/INFO]: Rigustah joined the game
+[18:44:17] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[18:44:17] [Server thread/INFO]: Rigustah left the game
+[19:23:05] [User Authenticator #61/INFO]: UUID of player Rigustah is 453ff06a-9e3a-4a09-938a-ffe1679700cd
+[19:23:05] [Server thread/INFO]: Rigustah[/87.95.114.32:21557] logged in with entity id 836046 at (-143.43104951301186, 73.0, -83.22145972518219)
+[19:23:05] [Server thread/INFO]: Rigustah joined the game
+[20:04:42] [Server thread/INFO]: Rigustah lost connection: Disconnected
+[20:04:42] [Server thread/INFO]: Rigustah left the game

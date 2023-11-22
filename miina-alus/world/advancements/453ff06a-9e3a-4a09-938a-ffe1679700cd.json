@@ -143,8 +143,7 @@
     "criteria": {
       "cooked_porkchop": "2023-11-05 16:55:53 +0200",
       "mutton": "2023-11-05 14:36:02 +0200",
-      "apple": "2023-11-05 15:49:31 +0200",
-      "cooked_chicken": "2023-11-05 16:45:06 +0200",
+      "bread": "2023-11-22 14:39:50 +0200",
       "rotten_flesh": "2023-11-05 15:53:56 +0200",
       "cooked_mutton": "2023-11-05 14:41:37 +0200",
       "cooked_beef": "2023-11-05 15:58:13 +0200",
@@ -152,6 +151,8 @@
       "beef": "2023-11-16 20:19:27 +0200",
       "melon_slice": "2023-11-16 23:07:03 +0200",
       "porkchop": "2023-11-16 14:32:03 +0200",
+      "apple": "2023-11-05 15:49:31 +0200",
+      "cooked_chicken": "2023-11-05 16:45:06 +0200",
       "pumpkin_pie": "2023-11-08 02:47:20 +0200"
     },
     "done": false
@@ -3560,6 +3561,36 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2023-11-21 12:20:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-11-22 14:21:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-11-22 14:21:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-11-22 19:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-11-22 19:27:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-11-22 19:27:59 +0200"
     },
     "done": true
   },
